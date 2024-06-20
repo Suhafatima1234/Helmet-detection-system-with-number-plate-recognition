@@ -6,3 +6,7 @@ https://drive.google.com/file/d/1oluS4_6-u7-gAohDNKmZ0939bbzio8Bh/view?usp=shari
 
 This is the link of yolo congif file , make sure to put it in the main logic folder:
 https://drive.google.com/file/d/1jzeFeoKYKxzDXY2CSn_EVCjuf49HwyoY/view?usp=sharing
+
+
+You may need to make changes in the paths present in code.
+Make sure the subfolders "User_Interface", "proj2" and "helmet_detect" is under the same parent folder.
